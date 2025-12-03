@@ -1,3 +1,5 @@
+# utils/speed.py - 增加了 quick_check_url_connection 函数，用于粗筛死链接
+
 import asyncio
 import http.cookies
 import json
@@ -34,6 +36,49 @@ default_ipv6_result = {
     'resolution': default_ipv6_resolution
 }
 
+
+# =========================================================================
+# 💥 新增函数：用于快速连接检查
+# =========================================================================
+
+async def quick_check_url_connection(channel_info: dict) -> bool:
+    """
+    Performs a fast HEAD request to check if the URL is accessible (status 200/302).
+    """
+    url = channel_info.get('url')
+    # 使用一个很短的超时时间，实现快速粗筛
+    QUICK_TIMEOUT = 5 
+    
+    if not url:
+        return False
+
+    # 引用原始代码中的 ClientSession 设置
+    async with ClientSession(connector=TCPConnector(ssl=False), trust_env=True) as session:
+        try:
+            # 使用 HEAD 请求，比 GET 请求更快
+            async with session.head(url, timeout=QUICK_TIMEOUT) as response:
+                # 检查状态码是否是成功（200 OK）或重定向（301/302）
+                if response.status in [200, 301, 302]:
+                    # 如果是重定向，获取 Location
+                    location = response.headers.get('Location')
+                    if location:
+                         # 递归检查重定向的链接，确保终点有效
+                         async with session.head(location, timeout=QUICK_TIMEOUT) as final_response:
+                             return final_response.status == 200
+                    return True
+                else:
+                    return False
+        except asyncio.TimeoutError:
+            # 超时或连接问题，标记为失败
+            return False
+        except Exception:
+            # 其他连接异常，标记为失败
+            return False
+
+
+# =========================================================================
+# 原始代码块继续...
+# =========================================================================
 
 async def get_speed_with_download(url: str, headers: dict = None, session: ClientSession = None,
                                   timeout: int = speed_test_timeout) -> dict[
@@ -269,7 +314,7 @@ async def get_resolution_ffprobe(url: str, headers: dict = None, timeout: int = 
             url
         ]
         proc = await asyncio.create_subprocess_exec(*probe_args, stdout=asyncio.subprocess.PIPE,
-                                                    stderr=asyncio.subprocess.PIPE)
+                                                 stderr=asyncio.subprocess.PIPE)
         out, _ = await asyncio.wait_for(proc.communicate(), timeout)
         video_stream = json.loads(out.decode('utf-8'))["streams"][0]
         resolution = f"{video_stream['width']}x{video_stream['height']}"
