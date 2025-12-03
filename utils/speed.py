@@ -1,4 +1,4 @@
-# utils/speed.py - 增加了 quick_check_url_connection 函数，用于粗筛死链接
+# utils/speed.py - 增加了 quick_check_url_connection 函数，用于粗筛死链接 (QUICK_TIMEOUT 增加至 15s)
 
 import asyncio
 import http.cookies
@@ -46,8 +46,8 @@ async def quick_check_url_connection(channel_info: dict) -> bool:
     Performs a fast HEAD request to check if the URL is accessible (status 200/302).
     """
     url = channel_info.get('url')
-    # 使用一个很短的超时时间，实现快速粗筛
-    QUICK_TIMEOUT = 5 
+    # ✅ 核心修改：将超时时间从 5 秒增加到 15 秒，以容忍高延迟的港澳台源。
+    QUICK_TIMEOUT = 15 
     
     if not url:
         return False
