@@ -1,13 +1,13 @@
 🕘️更新时间,#genre#
-2025-12-31 18:18:40,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-01-01 18:19:38,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
@@ -35,11 +35,11 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 
 📺港澳台频道,#genre#
+ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
+ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 ViuTV,http://r.jdshipin.com/vSJvl$订阅源
 ViuTV,http://r.jdshipin.com/vSJvl$订阅源
 ViuTV,http://r.jdshipin.com/TcKr2$订阅源
-ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
-ViuTV,https://cdn.163189.xyz/163189/viu$订阅源
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn$订阅源
 ViuTV,https://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn$订阅源
 TVBS,https://k44991.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
