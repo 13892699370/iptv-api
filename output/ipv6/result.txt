@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 20:37:39,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-05-13 20:01:00,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -29,10 +29,10 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
@@ -100,8 +100,6 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
 海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
-海南卫视,https://gd202.tv1288.xyz/tsfile/live/1027_1.m3u8$订阅源
 三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86$订阅源
 海峡卫视,http://wine600.i234.me:4567/rtp/239.61.2.151:8894$订阅源
 海峡卫视,http://wine600.i234.me:4567/rtp/239.61.2.151:8894$订阅源
@@ -116,3 +114,7 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$订阅源
 
 📺港澳台频道,#genre#
+ViuTV,https://cdn10.163189.xyz/stream/163189/viu/$订阅源
+ViuTV,https://cdn10.163189.xyz/stream/163189/viu/$订阅源
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8$订阅源
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8$订阅源
