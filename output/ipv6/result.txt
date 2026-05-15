@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-13 20:01:00,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-05-15 19:52:03,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -42,8 +42,6 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16$订阅源
-CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
-CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17$订阅源
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17$订阅源
 CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
@@ -54,7 +52,6 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 黑龙江卫视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
-黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86$订阅源
@@ -107,14 +104,13 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86$订阅源
 
 📺地方频道,#genre#
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8$订阅源
-厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$订阅源
 
 📺港澳台频道,#genre#
-ViuTV,https://cdn10.163189.xyz/stream/163189/viu/$订阅源
-ViuTV,https://cdn10.163189.xyz/stream/163189/viu/$订阅源
+中视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv040$订阅源
+中视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv040$订阅源
+华视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv041$订阅源
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8$订阅源
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8$订阅源
