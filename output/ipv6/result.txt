@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 20:37:13,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-05-21 20:43:02,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -104,15 +104,14 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86$订阅源
 
 📺地方频道,#genre#
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8$订阅源
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8$订阅源
-厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv$订阅源
 
 📺港澳台频道,#genre#
 华视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv041$订阅源
 华视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv041$订阅源
 TVBS,https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
 TVBS,https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8$订阅源
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8$订阅源
