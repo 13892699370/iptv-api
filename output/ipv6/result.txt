@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-23 20:30:55,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-06-25 20:14:55,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -67,8 +67,6 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8$订阅源
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
 湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86$订阅源
