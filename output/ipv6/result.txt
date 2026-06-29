@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-27 19:25:32,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
+2026-06-29 22:01:31,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://iptv.catvod.com/live.php?id=CCTV4K%E8%B6%85%E9%AB%98%E6%B8%85&line=1$订阅源
@@ -27,8 +27,6 @@ CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88888888/224/3221225783/10000100000000060000000000726027_0.smil?icpid=SSPID&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=:20240213104135$订阅源
@@ -63,6 +61,9 @@ CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K$订阅源
 安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$订阅源
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
