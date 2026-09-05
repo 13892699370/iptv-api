@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-03 22:04:24,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-09-05 21:13:09,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -27,10 +27,13 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 南京教科,http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8$订阅源
 
 📺港澳台频道,#genre#
+ViuTV,https://cdn.qd.je/163189/viu$订阅源
+ViuTVsix,https://cdn.qd.je/163189/viu6$订阅源
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837$订阅源
 中视,http://4gtv.cnlive.club/channel/n722644d8/index.m3u8?q=1782639885837$订阅源
-华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8$订阅源
 华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1782639885837$订阅源
-TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
+华视,http://4gtv.cnlive.club/channel/n721fc25a/index.m3u8?q=1784702901150$订阅源
+华视,https://7612-5516-affc-d88b.kylintv.tv/live/ctshd_iphone.m3u8$订阅源
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1782639885837$订阅源
 TVBS,http://4gtv.cnlive.club/channel/58f128b2/index.m3u8?q=1784702901150$订阅源
+TVBS,https://7612-5516-affc-d88b.kylintv.tv/live/tvbshd_iphone.m3u8$订阅源
