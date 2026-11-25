@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-24 06:02:48,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-11-26 03:43:46,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
@@ -9,19 +9,26 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8#rtsp://103.251.96.71/PLTV/88
 📡卫视频道,#genre#
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
 甘肃卫视,https://live.gstv.com.cn/live/oxfhvoy.m3u8$订阅源
+海峡卫视,https://168.sryze.cc/163189/hxws$订阅源
+海峡卫视,https://168.sryze.cc/163189/hxws$订阅源
+海峡卫视,https://10.fast.hidns.vip/163189/hxws/$订阅源
+海峡卫视,https://10.fast.hidns.vip/163189/hxws/$订阅源
 海峡卫视,https://cdn.qd.je/163189/hxws$订阅源
 海峡卫视,https://cdn.qd.je/163189/hxws$订阅源
 海峡卫视,https://cdn.qd.je/163189/hxws2$订阅源
-海峡卫视,https://10.fast.hidns.vip/163189/hxws/$订阅源
-海峡卫视,https://10.fast.hidns.vip/163189/hxws/$订阅源
+海峡卫视,https://cdn.qd.je/163189.php?id=hxws$订阅源
 
 📺地方频道,#genre#
 广东体育,https://cdn.qd.je/163189/gdty$订阅源
+广州综合,https://168.sryze.cc/163189/gzxw$订阅源
+广州综合,https://168.sryze.cc/163189/gzzh$订阅源
 
 📺港澳台频道,#genre#
-ViuTV,https://cdn.qd.je/163189/viu$订阅源
 ViuTV,https://10.fast.hidns.vip/163189/viu/$订阅源
-ViuTVsix,https://cdn.qd.je/163189/viu6$订阅源
+ViuTV,https://10.fast.hidns.vip/163189/viu/video/index.php$订阅源
+ViuTV,https://cdn.qd.je/163189/viu$订阅源
+ViuTV,https://cdn.qd.je/163189.php?id=viu$订阅源
 ViuTVsix,https://10.fast.hidns.vip/163189/viu6/$订阅源
+ViuTVsix,https://cdn.qd.je/163189/viu6$订阅源
 中视,https://epg.pw/stream/6478902e04ad499ce467058635c654d97c58f48c47a2d4083253e79c6ecc2429.m3u8$订阅源
 中视,https://epg.pw/stream/6478902e04ad499ce467058635c654d97c58f48c47a2d4083253e79c6ecc2429.m3u8$订阅源
